@@ -1,5 +1,5 @@
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="/kubero-dev/kubero/blob/main/docs/logo/kubero-logo-horizontal.png"><img src="/kubero-dev/kubero/raw/main/docs/logo/kubero-logo-horizontal.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/kubero-dev/kubero/blob/main/docs/logo/kubero-logo-horizontal.png"><img src="https://github.com/kubero-dev/kubero/raw/main/docs/logo/kubero-logo-horizontal.png" style="max-width: 100%;"></a>
 </p>
 <hr>
 <br>
