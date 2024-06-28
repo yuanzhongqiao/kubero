@@ -12,7 +12,7 @@
 Kubero [发音：Kube Hero] 是一个完全自托管的内部开发者平台 (IDP)，它将 Heroku 的工作流程引入您的 Kubernetes 集群。它使您能够通过几次点击来部署应用程序。它具有内置的 CI/CD 管道并支持多个暂存环境。
 </font></font><br>
 <br>
-<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/kubero-dev/kubero/blob/main/docs/screenshots/createapp.gif" data-target="animated-image.originalLink"><img src="/kubero-dev/kubero/raw/main/docs/screenshots/createapp.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/kubero-dev/kubero/blob/main/docs/screenshots/createapp.gif" data-target="animated-image.originalLink"><img src="https://github.com/kubero-dev/kubero/raw/main/docs/screenshots/createapp.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/kubero-dev/kubero/blob/main/docs/screenshots/createapp.gif" target="_blank">
           
